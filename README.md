@@ -21,7 +21,11 @@ This is a visually rich and interactive front-end clone of the official [Apple V
 
 ## 📸 Screenshots
 
-*Add screenshots here to show your UI if you want*
+
+
+https://github.com/user-attachments/assets/af8d8920-300e-4998-ada8-eaa0c61b26c1
+
+
 
 ## 🔧 Setup & Installation
 
@@ -29,15 +33,3 @@ This is a visually rich and interactive front-end clone of the official [Apple V
  
 ```bash
 https://github.com/PravinMalge/Apple-Vision-Pro-Clone.git
-
-
-
-
-
-
-
-
-
-
-
-
