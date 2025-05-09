@@ -19,8 +19,10 @@ This is a visually rich and interactive front-end clone of the official [Apple V
 - [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/)  
 - Apple media resources (official videos and images)
 
-## 📸 Screenshots
+## 🔗 Hosted URL
+https://apple-vision-pro-clone-chi.vercel.app/
 
+## 📸 Screenshots
 
 
 https://github.com/user-attachments/assets/af8d8920-300e-4998-ada8-eaa0c61b26c1
